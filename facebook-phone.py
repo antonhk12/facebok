@@ -1,23 +1,3 @@
-Facebook - Account's Phone Number Brute-Force
-
-Affected ver    facebook.com
-&
-m.facebook.com
-Tested on    facebook.com & m.facebook.com
-
-Description:
-Brute Forces Any Facebook Account's Phone Number if it Got a Linked Phone # in it.
-+ Saves All Acounts with their Phone Number Until it Reaches Targets Phone Number
-its a 2 in 1 Tool
-Usage info:
-You Should Only Know The Country Code of The Target and You Should Own a Facebook Account
-1.Country Code=> US (+1) , Greece (+30) ... etc
-2.Facebook Account
-The Tool Runs Threads For Speed Purposes
-
-
-Secret Code:
-
 import urllib2
 import re
 import threading
